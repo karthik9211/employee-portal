@@ -2,3 +2,11 @@ body {
     font-family: Arial;
     padding: 20px;
 }
+
+.employee-card {
+    border: 1px solid gray;
+    padding: 15px;
+    width: 250px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
